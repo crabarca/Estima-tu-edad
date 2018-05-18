@@ -1,6 +1,6 @@
 #PROJECT IGNORE
 fotos/
-
+.vscode
 
 # BASE PYTHON IGNORE
 # Byte-compiled / optimized / DLL files
