@@ -1,6 +1,13 @@
 #PROJECT IGNORE
-fotos/
 .vscode
+
+#Databases
+fotos/
+utk_faces/
+utk_faces_renamed/
+crop_part1*
+Unconfirmed*
+wiki*
 
 # BASE PYTHON IGNORE
 # Byte-compiled / optimized / DLL files
