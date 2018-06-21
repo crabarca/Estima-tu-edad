@@ -11,6 +11,10 @@ wiki*
 AgeDB*
 utk_faces_extended/
 
+#Mat files
+featuresExtracted*
+featuresSelected*
+
 # BASE PYTHON IGNORE
 # Byte-compiled / optimized / DLL files
 __pycache__/
