@@ -12,8 +12,9 @@ AgeDB*
 utk_faces_extended/
 
 #Mat files
+featureExtraction*
 featuresExtracted*
-featuresSelected*
+selectedFeatures*
 
 # BASE PYTHON IGNORE
 # Byte-compiled / optimized / DLL files
