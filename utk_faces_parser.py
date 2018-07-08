@@ -67,7 +67,6 @@ def class_percentile(ageRangeCounter, testing = 0.9, train = 0.1, verbose = Fals
 
     if verbose:
         print("Hold out {}/{}  class count: {}".format(train * 100, testing * 100, agePercentile)) 
-    
     return agePercentile
 
 
