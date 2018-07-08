@@ -2,18 +2,12 @@
 .vscode
 
 #Databases
-fotos/
-utk_faces/
-utk_faces_renamed/
-crop_part1*
-Unconfirmed*
-wiki*
-AgeDB*
-utk_faces_extended/
+datasets/
 
 #Mat files
+featureExtraction*
 featuresExtracted*
-featuresSelected*
+selectedFeatures*
 
 # BASE PYTHON IGNORE
 # Byte-compiled / optimized / DLL files
