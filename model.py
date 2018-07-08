@@ -1,6 +1,6 @@
 import keras
 from keras.models import Sequential
-from keras.layers import Dense, Dropout, Activation, Conv2D, MaxPool2D, Flatten
+from keras.layers import Dense, Dropout, Activation, Conv2D, MaxPool2D, Flatten, Input
 from keras.optimizers import SGD
 
 # Generate dummy data
