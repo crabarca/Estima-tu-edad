@@ -3,6 +3,9 @@
 
 #Databases
 datasets/
+features/
+selected/ 
+models/ 
 
 #Mat files
 featureExtraction*
